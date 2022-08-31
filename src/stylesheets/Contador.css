@@ -1,0 +1,19 @@
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+.contador {
+  min-width: 300px;
+  height: 300px;
+  font-size: 160px;
+  padding: 25;
+  color: azure;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 8px solid white;
+  margin-bottom: 15px;
+  font-family: 'Palette Mosaic', cursive;
+}

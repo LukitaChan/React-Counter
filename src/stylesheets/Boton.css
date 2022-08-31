@@ -1,0 +1,38 @@
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+button {
+  width: 250px;
+  height: 80px;
+  font-family: 'Shadows Into Light', cursive;
+  font-family: bold;
+  font-size: 40px;
+  color: whitesmoke;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(156, 88, 134);;
+}
+
+.boton-click {
+  background-color: rgb(114, 90, 138);
+}
+
+
+.boton-reiniciar {
+  background-color: rgb(112, 134, 91);
+}
+
+
+
+
+
+/*Importarlo al Boton.jsx    ----> import '../stylesheets/Boton.css'*/
